@@ -1,0 +1,59 @@
+`Table 1.  Directly Imaged Planets and Planet Candidates with Inferred Masses lesssim13 MJup
+
+Name	Massa	Luminosity	Age	Sep.	Sep.	NIR SpT	Orbital	Pri.	Pri. Mass	References
+ 	(MJup)	(log (LBol/L⊙))	(Myr)	('')	(au)	 	Motion?	Mult.b	(M⊙)	 
+Close-in Planets (<100 au)
+51 Eri b	2 ± 1	–5.6 ± 0.2	23 ± 3	0.45	13	T4.5–T6	Yes	S	1.75	1, 2, 3
+HD 95086 b	5 ± 2	–4.96 ± 0.10	17 ± 4	0.6	56	L/T:	Yes	S	1.6	4–7
+HR 8799 b	5 ± 1	–5.1 ± 0.1	40 ± 5	1.7	68	~L/Tpec	Yes	S	1.5	8–11
+LkCa 15 bc	6 ± 4	⋯	2 ± 1	0.08	20	⋯	Yes	S	1.0	12–15
+HR 8799 c	7 ± 2	–4.7 ± 0.1	40 ± 5	0.95	38	~L/Tpec	Yes	S	1.5	8–11
+HR 8799 d	7 ± 2	–4.7 ± 0.2	40 ± 5	0.62	24	~L7pec	Yes	S	1.5	8, 10, 11
+HR 8799 e	7 ± 2	–4.7 ± 0.2	40 ± 5	0.38	14	~L7pec	Yes	S	1.5	10, 11, 16
+β Pic b		12.7 ± 0.3	–3.78 ± 0.03	23 ± 3	0.4	9	L1	Yes	S	1.6	17–20
+Planetary-mass Companions on Wide Orbits (>100 au)
+WD 0806-661 b	7.5 ± 1.5	⋯	2000 ± 500	130	2500	Y?	No	S	2.0d	21–23
+Ross 458 c	9 ± 3	–5.62 ± 0.03	150–800	102	1190	T8.5pec	No	B	0.6, 0.09	24–28
+ROXs 42B b	10 ± 4	–3.07 ± 0.07	3 ± 2	1.2	140	L1	Yes	B	0.89, 0.36	29–33
+HD 106906 b	11 ± 2	–3.64 ± 0.08	13 ± 2	7.1	650	L2.5	No	B	1.5	34, 35
+GU Psc b	11 ± 2	–4.75 ± 0.15	120 ± 10	42	2000	T3.5	No	S	0.30	36
+CHXR 73 b	13 ± 6	–2.85 ± 0.14	2 ± 1	1.3	210	≥M9.5	No	S	0.30	37
+SR12 C	13 ± 2	–2.87 ± 0.20	3 ± 2	8.7	1100	M9.0	No	B	1.0, 0.5	31, 38
+TYC 9486-927-1 b	12–15	⋯	10–45	217	6900	L3	No	S	0.4	39, 40
+Planetary-mass Companions Orbiting Brown Dwarfs
+2M1207–3932 b	5 ± 2	–4.68 ± 0.05	10 ± 3	0.8	41	L3	No	S	0.024	41–44, 11
+2M0441+2301 Bb	10 ± 2	–3.03 ± 0.09	2 ± 1	12/0.1	1800/15	L1	Yes	B/S	0.2, 0.018	45–47
+Candidate Planets and Companions Near the Deuterium-burning Limit
+1RXS J1609–2105 B	14 ± 2	–3.36 ± 0.09	11 ± 2	2.2	330	L2	No	S	0.85	48–51
+2M0103–5515 b	13–35	–3.49 ± 0.11	45 ± 4	1.7	84	⋯	Yes	B	0.19, 0.17	52, 53, 11
+2M0122–2439 B	12–27	–4.19 ± 0.10	120 ± 10	1.4	52	L4	No	S	0.4	53, 54
+2M0219–3925 B	14 ± 1	–3.84 ± 0.05	45 ± 4	4.0	156	L4	No	S	0.11	55
+AB Pic B	13–30	–3.7 ± 0.2	45 ± 4	5.5	250	L0	No	S	0.95	56, 57
+CFBDSIR J1458+1013 B	5–20	–6.74 ± 0.19	1000–5000	0.1	2.6	Y0:	Yes	S	0.01–0.04	58, 59
+DH Tau B	8–22	–2.71 ± 0.12	2 ± 1	2.3	340	M9.25	No	S	0.5	60, 37, 15
+Fomalhaut b	lesssim2	⋯	440 ± 40	13	119	⋯	Yes	S	1.92	61–64
+FU Tau B	~16	–2.60	2 ± 1	5.7	800	M9.25	No	S	0.05	65
+FW Tau b	~10–100	⋯	2 ± 1	2.3	330	pec	No	B	0.3, 0.3	29, 31, 66
+G196-3 B	12–25	–3.8 ± 0.2	20–85	16	400	L3	No	S	0.43	67–69, 53, 44
+GJ 504 b	3–30	–6.13 ± 0.03	100–6500	2.5	44	T:	Yes	S	1.16	70–73
+GJ 758 B	10–40	–6.1 ± 0.2	1000–6000	1.9	29	T8:	Yes	S	1.0	74–77
+GSC 6214-210 B	15 ± 2	–3.1 ± 0.1	11 ± 2	2.2	320	M9.5	No	S	0.9	50, 31, 78, 79
+HD 100546 b	~10 ±  5	⋯	5–10	0.48	53	⋯	No	S	2.4	80–82
+HD 100546 c	<20	⋯	5–10	0.13	13	⋯	No	S	2.4	83
+HD 203030 B	12–30	–4.64 ± 0.07	130–400	12	490	L7.5	Yes	S	0.95	84, 85
+HN Peg B	12–31	–4.77 ± 0.03	300 ± 200	43	800	T2.5	No	S	1.07	85, 86
+κ And b	12–66	–3.76 ± 0.06	40–300	1.1	55	L1	No	S	2.8	87–90
+LkCa 15 cc	<10	⋯	2 ± 1	0.08	15	⋯	Yes	S	1.0	14, 15
+LkCa 15 d	<10	⋯	2 ± 1	0.09	18	⋯	Yes	S	1.0	14, 15
+LP 261-75 B	12–26	–4.43 ± 0.09	100–200	14	450	L4.5	No	S	0.22	91, 53
+ROXs12 B	16 ± 4	⋯	8 ± 3	1.8	210	⋯	Yes	S	0.9	29, 33
+SDSS2249+0044 A	12–60	–3.9 ± 0.3	20–300	0.3/49	17/2600	L3	No	S/S	⋯	92
+SDSS2249+0044 B	8–52	–4.2 ± 0.3	20–300	0.3	17	L5	No	S	0.03	92
+VHS1256–1257 b	10–21	–5.05 ± 0.22	150–300	8.1	102	L7	No	B	0.07, 0.07	93, 94
+WISE J0146+4234 B	4–16	–7.01 ± 0.22	1000-10000	0.09	1	Y0	Yes	S	0.005–0.016	95
+WISE J1217+1626 B	5–20	–6.79 ± 0.18	1000–5000	0.08	8	Y0	No	S	0.01–0.04	96
+
+Notes.
+
+aInferred masses assume hot-start evolutionary models. bMultiplicity of the host star interior to the companion's orbit. cLkCa 15 "b" from Kraus & Ireland (2012) is planet "c" in Sallum et al. (2015b). Here I use the original nomenclature from Kraus et al; LkCa15 c in this table is the candidate planet "b" from Sallum et al. dProgenitor mass.
+References. (1) Macintosh et al. (2015), (2) De Rosa et al. (2015), (3) Mamajek & Bell (2014), (4) Rameau et al. (2013c), (5) Meshkat et al. (2013a), (6) De Rosa et al. (2016), (7) Rameau et al. (2016), (8) Marois et al. (2008), (9) Rajan et al. (2015), (10) Bonnefoy et al. (2016), (11) Bell et al. (2015), (12) Kraus & Ireland (2012), (13) Ireland & Kraus (2014), (14) Sallum et al. (2015b), (15) Andrews et al. (2013), (16) Marois et al. (2010b), (17) Lagrange et al. (2009a), (18) Lagrange et al. (2010), (19) Morzinski et al. (2015), (20) Bonnefoy et al. (2013), (21) Luhman et al. (2011), (22) Luhman et al. (2012), (23) Rodriguez et al. 2011b, (24) Goldman et al. (2010), (25) Scholz (2010), (26) Burgasser et al. (2010), (27) Burningham et al. (2011), (28) Beuzit et al. (2004), (29) Kraus et al. (2014a), (30) Currie et al. (2014c), (31) Bowler et al. (2014), (32) Currie et al. (2014a), (33) Bryan et al. (2016), (34) Bailey et al. (2014), (35) Lagrange et al. (2016), (36) Naud et al. (2014), (37) Luhman et al. (2006), (38) Kuzuhara et al. (2011), (39) Deacon et al. (2016), (40) Reid et al. (2008), (41) Chauvin et al. (2004), (42) Chauvin et al. (2005a), (43) Barman et al. (2011b), (44) Allers & Liu (2013), (45) Todorov et al. (2010), (46) Todorov et al. (2014), (47) Bowler & Hillenbrand (2015), (48) Lafrenière et al. (2008), (49) Lafrenière et al. (2010), (50) Ireland et al. (2011), (51) Wu et al. (2015), (52) Delorme et al. (2013), (53) Bowler et al. (2013), (54) Hinkley et al. (2015a), (55) Artigau et al. (2015), (56) Chauvin et al. (2005c) (57) Bonnefoy et al. (2010), (58) Liu et al. (2011), (59) Liu et al. (2012), (60) Itoh et al. (2005), (61) Kalas et al. (2008b), (62) Kalas et al. (2013), (63) Mamajek (2012), (64) Janson et al. (2012), (65) Luhman et al. (2009b), (66) White & Ghez (2001), (67) Rebolo et al. (1998), (68) Zapatero Osorio et al. (2010), (69) Gaidos et al. (2014), (70) Kuzuhara et al. (2013), (71) Janson et al. (2013a), (72) Fuhrmann & Chini (2015), (73) Skemer et al. (2016), (74) Thalmann et al. (2009), (75) Currie et al. (2010), (76) Janson et al. (2011b), (77) Vigan et al. (2016), (78) Bowler et al. (2011), (79) Lachapelle et al. (2015), (80) Quanz et al. (2013), (81) Currie et al. (2014d), (82) Quanz et al. (2015), (83) Currie et al. (2015), (84) Metchev & Hillenbrand (2006), (85) Tokovinin (2014), (86) Luhman et al. (2007), (87) Carson et al. (2013), (88) Hinkley et al. (2013), (89) Bonnefoy et al. (2014a), (90) Jones et al. 2016, (91) Reid & Walkowicz (2006), (92) Allers et al. (2010), (93) Gauza et al. (2015), (94) Stone et al. (2016), (95) Dupuy et al. (2015a), (96) Liu et al. (2012).

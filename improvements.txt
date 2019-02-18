@@ -1,0 +1,36 @@
+ Put link to resume
+add cell to resume
+link to phd thesis
+
+Outreach:
+
+	- Skype a scientist		
+		
+	- Reel Science
+	- Written Works
+		** Article about astro on tap
+		** blog post on disks
+		** one that'll come out soon
+
+	- Reel Science
+****8 SOMETHING'S WRONG WITH LINK TO PHOOTOS ON ASTRO ON TAP*****
+
+Tools:
+	- Add debris disk database
+	- Saturation calculator: Saturated photometry table
+
+Research:
+	Add papers of tokamak stuff and QCD stuff to research page
+
+
+Latest Info Page:
+	- new article I wrote
+	- EXOSIMS is Live
+	- new disk database
+	- saturated photometry table
+	- I was on a podcast!
+
+
+<A HREF="http://www.astro.caltech.edu/outreach/lectures/" Target="_new">
+<IMG SRC="images/lecture_series.jpg" ALT="Lecture Series"></A>
+During the semester, the Cahill building at Caltech is host to a series of free lectures on Friday nights open to the public. Astronomers --- students, postdocs, and faculty --- discuss interesting topics in astronomy. At various times, I've helped out our host, <a href="http://chummels.org/">Dr. Cameron Hummels</a>, with these lectures. <a href="http://www.astro.caltech.edu/outreach/lectures/">Check it out.</a>
