@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ec165e3-4dfc-4eae-a011-f0d7e658619f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AstroonTap.html" beforeDir="false" afterPath="$PROJECT_DIR$/AstroonTap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research.html" beforeDir="false" afterPath="$PROJECT_DIR$/Research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/codes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directimaging.html" beforeDir="false" afterPath="$PROJECT_DIR$/directimaging.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.picasa.ini" beforeDir="false" afterPath="$PROJECT_DIR$/images/.picasa.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.picasaoriginals/.picasa.ini" beforeDir="false" afterPath="$PROJECT_DIR$/images/.picasaoriginals/.picasa.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/outreach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasadenaOutreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/pasadenaOutreach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wfirstcgi.html" beforeDir="false" afterPath="$PROJECT_DIR$/wfirstcgi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wisedisks.html" beforeDir="false" afterPath="$PROJECT_DIR$/wisedisks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/writing.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,21 +28,12 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>wise</find>
-      <find>hi there</find>
-      <find>2.</find>
-      <find>resources</find>
-      <find>#</find>
-      <find>/font</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WxInaU07rZDVyVTPeDY7im8wqz" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -152,7 +134,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
