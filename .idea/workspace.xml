@@ -5,48 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c18ec29-7340-411a-b575-15cde28624f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/astropatel.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/RahulSite_phaseshift.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AstroonTap.html" beforeDir="false" afterPath="$PROJECT_DIR$/AstroonTap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Communicating Science/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Communicating Science/_notes/dwsync.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research.html" beforeDir="false" afterPath="$PROJECT_DIR$/Research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/codes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ie/backgroundsize.min.htc" beforeDir="false" afterPath="$PROJECT_DIR$/css/ie/backgroundsize.min.htc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/skel_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skel_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style-wide.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-wide.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directimaging.html" beforeDir="false" afterPath="$PROJECT_DIR$/directimaging.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.htm" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/_notes/dwsync.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/filelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/filelist.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/sheet001.htm" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/sheet001.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/tabstrip.htm" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/tabstrip.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/_notes/dwsync.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.picasa.ini" beforeDir="false" afterPath="$PROJECT_DIR$/images/.picasa.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/.picasaoriginals/.picasa.ini" beforeDir="false" afterPath="$PROJECT_DIR$/images/.picasaoriginals/.picasa.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/linkedin_connections_export_microsoft_outlook.csv" beforeDir="false" afterPath="$PROJECT_DIR$/images/linkedin_connections_export_microsoft_outlook.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.dropotron.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.dropotron.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/skel-layers.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/skel-layers.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/no-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/no-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/outreach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wfirstcgi.html" beforeDir="false" afterPath="$PROJECT_DIR$/wfirstcgi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wisedisks.html" beforeDir="false" afterPath="$PROJECT_DIR$/wisedisks.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/darthpatel/Library/CloudStorage/Dropbox/astropatel.github.io",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
