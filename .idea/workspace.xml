@@ -1,19 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ec165e3-4dfc-4eae-a011-f0d7e658619f" name="Default" comment="">
+    <list default="true" id="0c18ec29-7340-411a-b575-15cde28624f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/astropatel.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RahulSite_phaseshift.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AstroonTap.html" beforeDir="false" afterPath="$PROJECT_DIR$/AstroonTap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Communicating Science/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Communicating Science/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Research.html" beforeDir="false" afterPath="$PROJECT_DIR$/Research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/codes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ie/backgroundsize.min.htc" beforeDir="false" afterPath="$PROJECT_DIR$/css/ie/backgroundsize.min.htc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skel_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/skel_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-wide.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-wide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directimaging.html" beforeDir="false" afterPath="$PROJECT_DIR$/directimaging.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.htm" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/filelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/filelist.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/sheet001.htm" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/sheet001.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/tabstrip.htm" beforeDir="false" afterPath="$PROJECT_DIR$/files/PostDoc_ApplicationInfo_files/tabstrip.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/_notes/dwsync.xml" beforeDir="false" afterPath="$PROJECT_DIR$/files/_notes/dwsync.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.picasa.ini" beforeDir="false" afterPath="$PROJECT_DIR$/images/.picasa.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.picasaoriginals/.picasa.ini" beforeDir="false" afterPath="$PROJECT_DIR$/images/.picasaoriginals/.picasa.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/linkedin_connections_export_microsoft_outlook.csv" beforeDir="false" afterPath="$PROJECT_DIR$/images/linkedin_connections_export_microsoft_outlook.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.dropotron.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.dropotron.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/skel-layers.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/skel-layers.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/left-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/no-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/outreach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/right-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wfirstcgi.html" beforeDir="false" afterPath="$PROJECT_DIR$/wfirstcgi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wisedisks.html" beforeDir="false" afterPath="$PROJECT_DIR$/wisedisks.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="RahulSite_phaseshift" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,94 +63,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WxInaU07rZDVyVTPeDY7im8wqz" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2m5dlEDKcUNmKkrLNBVVTEFBFXL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/darthpatel/Library/CloudStorage/Dropbox/astropatel.github.io",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="RahulSite_phaseshift" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <module name="RahulSite_phaseshift" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="RahulSite_phaseshift" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <module name="RahulSite_phaseshift" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ec165e3-4dfc-4eae-a011-f0d7e658619f" name="Default" comment="" />
-      <created>1477019175469</created>
+      <changelist id="0c18ec29-7340-411a-b575-15cde28624f3" name="Changes" comment="" />
+      <created>1726370519498</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1477019175469</updated>
+      <updated>1726370519498</updated>
     </task>
     <servers />
   </component>
@@ -125,15 +107,6 @@
           </value>
         </entry>
       </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
     </option>
   </component>
 </project>
