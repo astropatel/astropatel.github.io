@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c18ec29-7340-411a-b575-15cde28624f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_old.html" afterDir="false" />
     </list>
@@ -40,7 +41,7 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/darthpatel/Library/CloudStorage/Dropbox/astropatel.github.io",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
