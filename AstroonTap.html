@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>q
+<!DOCTYPE HTML>
 <!--
 	Phase Shift by TEMPLATED
 	templated.co @templatedco
@@ -26,9 +26,9 @@
 	<body>
 
 		<!-- Wrapper -->
-<div class="wrapper style1">
-
+<!-- <div class="wrapper style1"> -->
 				<!-- Header -->
+		<!--
 					<div id="header" class="skel-panels-fixed">
 						<div id="logo">
 							<h1><a href="index.html"> Rahul I. Patel: Outreach - Astronomy on Tap</a></h1>
@@ -44,7 +44,8 @@
 							</ul>
 						</nav>
 					</div>
-
+-->
+				<div id="header-container"></div>
 				<!-- Banner -->
 					<div id="banner" class="container">
                  
@@ -75,48 +76,34 @@
 
 					</div>
 
-	<!-- CURRENT RESEARCH ----------------------------------------------------- -->
-<div class="container">
-	<div class ="row">
-    <!-- content -->
-                        
-	 <div class="6u">
-	    <section>
-	      <ul class="style">
-		
-        
 
-	  </div>
-	</div>  <!-- row div end -->
 
-      
-    <!-- don't delete -->                
-</div>
-
-	<!-- Footer -->
-		<div id="footer" class="wrapper style2">
-        <a name="contactus"></a> 
-
-                    <br>ripatel272&#64;gmail&#46;com
-
-<!--					<br><span class="fa fa-github"></span><a href="https://github.com/astropatel">https://github.com/astropatel</a>-->
-                    <ul class="icons">
-                    	<li><a href="https://github.com/astropatel" class="fa fa-github"><span>Github</span></a></li>
-                        <li><a href="https://www.linkedin.com/in/ripatel2786/" class="fa fa-linkedin"><span>LinkedIN</span></a></li>
-                        <li><a href="https://twitter.com/darthpatel" class="fa fa-twitter"><span>Twitter</span></a></li>
-					</ul>
-                    
-
-		</div>
-
-	<!-- Copyright -->
-		<div id="copyright">
-			<div class="container">
-				<div class="copyright">
-					<p>Design by <a href="http://templated.co">TEMPLATED</a> and totally inspired and ripped off from <a href="http://www.astro.sunysb.edu/mzingale/index.html" target="_new">Michael Zingale</a> because I have no website creativity.</p>
-				</div>
-			</div>
-		</div>
-
+      <!-- Footer -->
+      <div id="footer-container"></div>
+      <!-- Copyright -->
+      <div id="copyright">
+         <div class="container">
+            <div class="copyright">
+               <p>Design by <a href="http://templated.co">TEMPLATED</a> and totally inspired and ripped off from <a href="http://www.astro.sunysb.edu/mzingale/index.html" target="_new">Michael Zingale</a> because I have no website creativity.</p>
+            </div>
+         </div>
+      </div>
+      <!-- JavaScript to load header and footer -->
+      <script>
+         // Insert the header content
+         fetch('header.html')
+         	.then(response => response.text())
+         	.then(data => {
+         		document.getElementById('header-container').innerHTML = data;
+         	});
+      </script>
+      <script>
+         // Insert the footer content
+         fetch('footer.html')
+         	.then(response => response.text())
+         	.then(data => {
+         		document.getElementById('footer-container').innerHTML = data;
+         	});
+      </script>
 	</body>
 </html>
