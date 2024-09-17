@@ -7,7 +7,7 @@
     width: 100%;
     z-index: 1000;
     background-color: #fff; /* Ensure it's visible on scroll */
-    box-shadow: 0 0px 0px -0px gray; /* Optional for shadow effect */
+    box-shadow: 0 4px 2px -2px gray; /* Optional for shadow effect */
 }
 
 /* Adjust body padding to prevent content overlap */
