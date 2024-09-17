@@ -6,7 +6,7 @@
     top: 0;
     width: 100%;
     z-index: 1000;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
     background-color: #fff; /* Ensure it's visible on scroll */
     box-shadow: 0 4px 2px -2px gray; /* Optional for shadow effect */
 }
