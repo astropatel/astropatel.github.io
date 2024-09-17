@@ -1,0 +1,16 @@
+/* header.css */
+
+/* CSS for making the header sticky */
+#header-container {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #fff; /* Ensure it's visible on scroll */
+    box-shadow: 0 4px 2px -2px gray; /* Optional for shadow effect */
+}
+
+/* Adjust body padding to prevent content overlap */
+body {
+    padding-top: 80px; /* Set based on your header height */
+}

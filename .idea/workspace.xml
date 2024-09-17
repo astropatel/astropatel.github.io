@@ -6,19 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c18ec29-7340-411a-b575-15cde28624f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AstroonTap.html" beforeDir="false" afterPath="$PROJECT_DIR$/AstroonTap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Research.html" beforeDir="false" afterPath="$PROJECT_DIR$/Research.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes.html" beforeDir="false" afterPath="$PROJECT_DIR$/codes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directimaging.html" beforeDir="false" afterPath="$PROJECT_DIR$/directimaging.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/outreach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasadenaOutreach.html" beforeDir="false" afterPath="$PROJECT_DIR$/pasadenaOutreach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wfirstcgi.html" beforeDir="false" afterPath="$PROJECT_DIR$/wfirstcgi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wisedisks.html" beforeDir="false" afterPath="$PROJECT_DIR$/wisedisks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/writing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +41,21 @@
     "last_opened_file_path": "/Users/darthpatel/Library/CloudStorage/Dropbox/astropatel.github.io",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.editor"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "CSS",
+      "HTML"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/css/ie" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
